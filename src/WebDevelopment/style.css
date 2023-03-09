@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+
+}
+
+nav ul li{
+    padding:10px;
+    list-style:none;
+    background: red;
+    margin: 2px;
+
+}

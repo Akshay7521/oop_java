@@ -1,6 +1,4 @@
-package com.akshay.LinearSearch;
-
-import jdk.dynalink.beans.StaticClass;
+package com.akshay.SortingAlgorithms.LinearSearch;
 
 public class Main {
     public static void main(String[] args) {

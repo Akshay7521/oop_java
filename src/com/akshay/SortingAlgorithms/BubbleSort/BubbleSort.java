@@ -1,4 +1,4 @@
-package com.akshay.SortingAlgorithms;
+package com.akshay.SortingAlgorithms.BubbleSort;
 // Bubble sort algorithm
 
 import java.util.Arrays;

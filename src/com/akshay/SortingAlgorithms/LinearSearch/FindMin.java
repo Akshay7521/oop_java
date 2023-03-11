@@ -1,4 +1,4 @@
-package com.akshay.LinearSearch;
+package com.akshay.SortingAlgorithms.LinearSearch;
 
 public class FindMin {
     public static void main(String[] args) {
